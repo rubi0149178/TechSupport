@@ -37,11 +37,11 @@ TechSupport permite a los usuarios *reportar incidencias, **dar seguimiento a ti
 
 ## 📸 Capturas de pantalla  
 
-> (Agrega imágenes de la app para mostrar su interfaz: login, tickets, dashboard…)  
+
 
 | Login | Dashboard | Ticket |
 |-------|-----------|--------|
-| ![Login](./screenshots/login.PNG) | ![Dashboard](./screenshots/Dashboard.PNG) | ![Ticket](./screenshots/ticket.PNG) |
+| ![Login](./screenshots/login.jpg) | ![Dashboard](./screenshots/Dashboard.jpg) | ![Ticket](./screenshots/ticket.jpg) |
 
 ---
 

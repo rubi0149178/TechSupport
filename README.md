@@ -43,6 +43,17 @@ TechSupport permite a los usuarios *reportar incidencias, **dar seguimiento a ti
 |-------|-----------|--------|
 | ![Login](./screenshots/login.PNG) | ![Dashboard](./screenshots/Dashboard.PNG) | ![Ticket](./screenshots/ticket.PNG) |
 
+---
+
+## 📅 Detalles del Sprint 1
+
+En el primer sprint se trabajó en:
+
+## 🔗 Integración con la base de datos (MongoDB):
+Se implementó la conexión entre el backend en Node.js + Express y la base de datos MongoDB, lo que permitió el manejo de usuarios.
+
+## 📱 Compatibilidad multiplataforma (Android e iOS):
+Se realizaron configuraciones y pruebas para asegurar que la aplicación pudiera ejecutarse correctamente en ambos sistemas operativos, incluyendo la instalación de dependencias específicas y la validación en emuladores.
 
 ---
 
